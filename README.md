@@ -6,4 +6,4 @@ A mass *.blang Converter that uses @STBrian's mc3dsblang Module to convert to an
 - Converted contents placed into the `in` folder will appear in the `out` folder after second execution.
 
 ## Download
-- Download the Whole thing [Here](https://github.com/Cracko298/MassBlangConverter/releases/download/v1/blang_stuffs.zip).
+- Download the Whole thing [Here](https://github.com/Cracko298/MassBlangConverter/releases/download/v2/blang_stuffs.zip).
